@@ -4,8 +4,8 @@
 
 
 2. About the data set:
-3. 2.1 Real database of IMDb movies. It contains 7 tables. It contains details of several relation between movies, directors, genre, actors and roles.
-4. 4.2 Source Link:  https://relational.fit.cvut.cz/dataset/IMDb  
+2.1 Real database of IMDb movies. It contains 7 tables. It contains details of several relation between movies, directors, genre, actors and roles.
+2.2 Source Link:  https://relational.fit.cvut.cz/dataset/IMDb  
 
 
 3. Objective of this project:
