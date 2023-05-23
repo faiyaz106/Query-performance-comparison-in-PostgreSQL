@@ -16,3 +16,5 @@ and roles.
 2.5. To measure the performance of SQL queries with and without indexing
 
 For more details, please refer to the attached project report.
+
+![image](https://github.com/faiyaz106/Query-performance-comparison-in-PostgreSQL/assets/25295396/f2a384bb-97d8-4657-bf5d-3aea94bc1ea8)
