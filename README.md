@@ -17,6 +17,8 @@ and roles.
 
 For more details, please refer to the attached project report.
 
+#### Results: Query Performance Comparison
 ![image](https://github.com/faiyaz106/Query-performance-comparison-in-PostgreSQL/assets/25295396/f2a384bb-97d8-4657-bf5d-3aea94bc1ea8)
+
 ![image](https://github.com/faiyaz106/Query-performance-comparison-in-PostgreSQL/assets/25295396/190df41d-e3e9-4f70-a3aa-64e412f6b1dd)
 
